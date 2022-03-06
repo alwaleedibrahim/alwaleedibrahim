@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">
+  <b>alwaleedibrahim</b>
+</h1>
 
-<!--
-**alwaleedibrahim/alwaleedibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Alwaleed Ibrahim.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alwaleedibrahim&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alwaleedibrahim&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Alwaleed Activity Graph](https://activity-graph.herokuapp.com/graph?username=alwaleedibrahim&custom_title=Alwaleed%20Ibrahim%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+
