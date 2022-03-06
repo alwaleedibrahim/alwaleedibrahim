@@ -1,14 +1,6 @@
 <h1 align="center">
   <b>Hello there 😄</b>
 </h1>
-
-- Hi, I'm Alwaleed Ibrahim 👈
-- I'm from 🇪🇬
-- Favorite language: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- Os: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-<br>
-
 -->
 
 ## My Statistics
