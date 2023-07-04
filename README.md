@@ -8,8 +8,7 @@ I'm Alwaleed Ibrahim Mohammed, a self-taught full stack web developer from Cairo
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Balwaleedibrahim%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaleedibrahim&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=alwaleedibrahim&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alwaleedibrahim&show_icons=true&theme=chartreuse-dark&hide_border=true" /></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=alwaleedibrahim&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
@@ -62,14 +61,4 @@ I have a Bachelor of Oral and Dental Medicine from Ahram Canadian University (No
 I speak English (proficient) and Arabic (native). I'm always open to new challenges and opportunities. Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/al-waleed-ibrahim/).
 
 Thank you for visiting my profile! 😊
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alwaleedibrahim&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alwaleedibrahim&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
 
