@@ -8,7 +8,7 @@ I'm Alwaleed Ibrahim Mohammed, a self-taught full stack web developer from Cairo
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Balwaleedibrahim%7D/count.svg" alt="visitor badge"/></p>
-<p align="center" ><<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alwaleedibrahim&show_icons=true&theme=chartreuse-dark&hide_border=true" /></p> 
+<p align="center" ><img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alwaleedibrahim&show_icons=true&theme=chartreuse-dark&hide_border=true" /></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=alwaleedibrahim&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
