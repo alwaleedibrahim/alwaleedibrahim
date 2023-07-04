@@ -4,8 +4,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-waleed-ibrahim/)
 
-Here is a possible readme.md file for your GitHub profile:
-
 I'm Alwaleed Ibrahim Mohammed, a self-taught full stack web developer from Cairo, Egypt. I'm passionate about learning new technologies and building web applications that comply with coding best-practices and focus on maintainability. I'm looking for an opportunity to apply my abilities in the real world.
 
 ## Skills 💻
@@ -27,7 +25,7 @@ Here are some of the projects I've built:
 
 - [Storefront](https://github.com/alwaleedibrahim/storefront): An Express API for a shopping application. I used TypeScript and Jasmine unit testing to ensure the maintainability of code. I also designed a PostgreSQL database and created its migrations.
 - [Socialize](https://github.com/alwaleedibrahim/socialize): A full-stack social network. I built the back-end with Node.js and Express, and created a MongoDB database to store data. I also built the user interface with Angular.
-- [Landing page](https://github.com/alwaleedibrahim/landing-page): A dynamic web page. I designed the web page with HTML and CSS, and implemented the navigation bar functionality dynamically with JavaScript.
+- [Landing page](https://github.com/alwaleedibrahim/landing_page): A dynamic web page. I designed the web page with HTML and CSS, and implemented the navigation bar functionality dynamically with JavaScript.
 
 ## Certifications 📜
 
