@@ -6,8 +6,6 @@
 
 I'm Alwaleed Ibrahim Mohammed, a self-taught full stack web developer from Cairo, Egypt. I'm passionate about learning new technologies and building web applications that comply with coding best-practices and focus on maintainability. I'm looking for an opportunity to apply my abilities in the real world.
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Balwaleedibrahim%7D/count.svg" alt="visitor badge"/></p>
 <p align="center" ><img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alwaleedibrahim&show_icons=true&theme=chartreuse-dark&hide_border=true" /></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=alwaleedibrahim&theme=chartreuse-dark"></p>
 
